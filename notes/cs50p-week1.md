@@ -1,10 +1,15 @@
 ## CS50P Week 1 (Conditionals)
 
 '>' - This symbol means greater than.
+
 '>=" - This symbol means greater or equal than.
+
 '<' - This symbol means less than.
+
 '<=' - This symbol meand less or equal than.
+
 '==' - This symbol represents equality.
+
 '!=' - This symbol means not equal to. 
 
 ## 'if'
@@ -23,9 +28,13 @@
 **'and'** is a logical operator that returns 'True' only if all of the conditions are true.
 
 '+' - addition
+
 '-' - substraction
+
 '*' - multiplication
+
 '/' - division
+
 '%' - modulo operator (calculates the reminder after division)
 
 ## bool 
