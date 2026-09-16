@@ -126,6 +126,9 @@ This refers to a variable only existing in the context in which you defined it.
 
 ## Week 0 Reflection
 
-**Easiest:** One of the easiest part of this week is understanding VS code and how to navigate through the programm. Also i feel like it is easy to understand different kind of funtions such as print (), or input(), int() etc.
-**Hardest:** Implementing new functions from the python library (where you find different functions and codes for python). Hard for me to understand those. Also i feel like there is a blank in arguments and parameters and i feel like i do not fully understand their purpose.
-**Still unclear:**Still don't understand how 'sep =' and 'end ='. I do not understand how to use them. I have tried once to use 'sep =' but it did not work and did not understand why.
+**Easiest:** 
+One of the easiest part of this week is understanding VS code and how to navigate through the programm. Also i feel like it is easy to understand different kind of funtions such as print (), or input(), int() etc.
+**Hardest:** 
+Implementing new functions from the python library (where you find different functions and codes for python). Hard for me to understand those. Also i feel like there is a blank in arguments and parameters and i feel like i do not fully understand their purpose.
+**Still unclear:**
+Still don't understand how 'sep =' and 'end ='. I do not understand how to use them. I have tried once to use 'sep =' but it did not work and did not understand why.
