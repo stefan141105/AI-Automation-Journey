@@ -37,5 +37,7 @@ A **bool** is a data type that can only have two values: 'True' or 'False'.
 ## Week 1 Reflection
 
 **Easiest** - understanding how if,elif,else works as well as or, and, not, and understand boolean values.
+
 **Hardest** - understand how to use match the order of the cases and how to use split() and when to use it. I feel like split() is a very tricky function.
+
 **Still unclear** - I would also include split() here and maybe rsplit() function.
