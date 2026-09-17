@@ -124,6 +124,15 @@ This means defining your own function so basically creating functions to improve
 ## scope
 This refers to a variable only existing in the context in which you defined it.
 
+## '='
+'=' is the assignment operator. It gives value to a variable.
+
+## '+'
+'+' can add numbers together or join strings togerher.
+
+## pow()
+'pow()' raises a number to a power.s
+
 ## Week 0 Reflection
 
 **Easiest:** 

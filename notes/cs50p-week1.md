@@ -37,6 +37,12 @@
 
 '%' - modulo operator (calculates the reminder after division)
 
+## 'not'
+**'not'** reverses a boolean value.'True' becomes 'False' and vice versa.
+
+## 'in'
+**'in'** checks whether a value exists inside something such as string or list.
+
 ## bool 
 A **bool** is a data type that can only have two values: 'True' or 'False'.
 
