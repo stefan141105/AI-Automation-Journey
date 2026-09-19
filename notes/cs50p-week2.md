@@ -37,3 +37,61 @@ Example:
 
 is a shorter way of writting:
 'x = x + 1'
+
+## dict (dictionaries)
+A **dict** (dictionary) stores information as **key-value pairs**, where each key is connected to a value. 
+
+## None
+'None' represents the absence of a value. It means that a variable or function does not currently have a meaningful value.
+
+## Iteration 
+**Iteration** means going through items one at a time, usually using a loop.
+
+## Nested Loop
+A **nested loop** is a loop inside another loop.
+
+## Multi line f-string
+'f""" ... """ creates a formatted string that can span multiple lines. It allows variables to be inserted using '{}'.
+
+Example:
+
+f"""
+Name: {name}
+Age: {age}
+"""
+
+## .get()
+'.get()' retrieves the value of a key from a dictionary. If the key does not exist, it returns 'None' instead of causing an error
+
+## .update()
+'.update()' adds new key-value pairs to a dictionary or changes the value of existing keys. 
+
+## .keys()
+'.keys()' returns all the keys in a dictionary.
+
+## .values()
+'.values()' returns all the values in a dictionary.
+
+## .pop()
+'.pop()' removes a key-value pair from a dictionary and returns the value that was removed
+
+## .clear()
+'.clear()' removes all key-value pairs from a dictionary, leaving it empty.
+
+## .items()
+'.items()' returns all key-value pairs in a dictionary.
+
+## .append()
+'.append()' adds a new item to the end of a list
+
+## .remove()
+'.remove()' removes an item form a list
+
+## .extend()
+'.extend()' adds all items from another iterable, such as a list, to the end of a list.
+
+## .insert()
+'.insert()' adds an item to a specific position in a list.
+
+## .reverse()
+'.reverse()' reverses the order of the items in a list.
