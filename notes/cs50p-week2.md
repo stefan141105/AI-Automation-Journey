@@ -102,3 +102,14 @@ Age: {age}
 ## Tuples
 A **tuple** stores multiple values in a specific order, similar to a list. The main difference is that a tuple **cannot be changed after it is created**.
 
+**Easiest**
+
+Understand how loops work and how to use them. Also understand how to manipulate strings and lists
+
+**Hardest**
+
+Dictionaries and their methods seem hard. Also it felt hard to solve the problem where i had to use multiple conditionals so it feels complicated when asked to deal with multiple conditionals.
+
+**Still Unclear** 
+
+I don't really have concepts that are unclear. Maybe the tuples but it is just a matter of going through the definition again nothing that seem complicated.
