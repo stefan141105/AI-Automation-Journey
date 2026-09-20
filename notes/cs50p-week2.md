@@ -95,3 +95,10 @@ Age: {age}
 
 ## .reverse()
 '.reverse()' reverses the order of the items in a list.
+
+## .join()
+'.join()' combines multiple strings into one string, usin a chosen separator between them.
+
+## Tuples
+A **tuple** stores multiple values in a specific order, similar to a list. The main difference is that a tuple **cannot be changed after it is created**.
+
