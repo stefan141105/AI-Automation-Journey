@@ -23,3 +23,12 @@ A **NameError** happens when Python tries to use a variable or name that has not
 
 ## else with try/except
 'else' runs only if the code inside the 'try' block finishes without raising an exception.
+
+## pass
+'pass' tells Python to do nothing and continue running. It is often used as a placeholder when Python requires a block of code but you do not want anything to happen there yet.
+
+## finally
+'finally' runs no matter what happens in the 'try' block, whether an exception occurs or not.
+
+## raise 
+'raise' is used to manually trigger an exception.
